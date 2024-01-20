@@ -27,7 +27,6 @@ The program covers a broad range of disciplines:
 
 
 ## Projects
-Highlight key projects or assignments you've completed. For each project, provide a brief description, objectives, technologies used, and a link to the project folder or files within your repository.
 
 - **[Analysis on Global Electricity Demand]([link-to-project](https://rpubs.com/nick_clim04/1039314))**:
   This was my very first project in this program where I used R to to perform statistical analysis to determine if there exists significant difference between developed and developing nations.
