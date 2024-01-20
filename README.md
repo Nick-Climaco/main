@@ -7,6 +7,7 @@ In my Data Science Master's program at CUNY, I've progressed through a comprehen
 ## Undergraduate
 
 BS in Mathematics 
+
 Concentration: Applied Math
 
 ## About the Program
