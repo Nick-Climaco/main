@@ -4,6 +4,11 @@
 
 In my Data Science Master's program at CUNY, I've progressed through a comprehensive curriculum that covered exploratory data analysis, the foundational math including linear algebra, probability, statistics, and calculus, and practical skills in data collection and wrangling. I've developed proficiency in feature engineering and selection, and gained hands-on experience in building and selecting models, focusing on regression and classification techniques. This journey has given me a well-rounded skill set in data science, preparing me for real-world challenges.
 
+## Undergraduate
+
+BS in Mathematics 
+Concentration: Applied Math
+
 ## About the Program
 
 The program’s learning objectives and demanding, hands-on courses are designed around employer needs. Throughout their time in the program, students build portfolios of increasingly complex projects using popular programming languages such as R and Python, which mirror the current experience and demands of the workplace. Students build predictive and prescriptive models, practice giving presentations, and review each other’s work in a convenient online setting, ensuring that they are equipped with the expertise most valued in today’s marketplace. The MS in Data Science program culminates with a capstone project that represents highly sophisticated, but practical, solutions to address real world problems.
